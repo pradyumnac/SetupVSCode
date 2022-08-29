@@ -2,7 +2,7 @@
 
 ## Extensions
 
-Theme: Andromeda  
+Theme: Andromeda
 icon: VSCode-icons
 GitLens **
 Go
@@ -23,6 +23,11 @@ MarkDown All in One
         Shrink hierarchically: Shift+Alt+Left
         CTRL+K V: to preview on righ tpane
             CTRL+SHIFT+V to switch between views in current window
-
+AutoDocString
+    Python docstrung generator
+    Switch between string templates
+    ctrll+shift+2 to trigger
+    only triggers if cursor on the line below the definition
 ---
+
 The ones with star need to be learnt more
