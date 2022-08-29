@@ -28,6 +28,7 @@
   * Switch between string templates
   * ctrll+shift+2 to trigger
   * only triggers if cursor on the line below the definition
+* EditorConfig
 
 ---
 
