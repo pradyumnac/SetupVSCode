@@ -1,4 +1,4 @@
-# Setup VSCode editor
+<h1 align="center">👊 Setup VSCode editor  💥</h1>
 
 ## Extensions
 
@@ -36,7 +36,7 @@
 ### MarkDown All in One  
 
 "markdown.extension.list.indentationSize": "inherit" for proper indentation  
-(Remember that  markdown has no concept of indent)
+(Remember that  markdown has no concept of)
 
 ---
 
