@@ -31,19 +31,6 @@
 - Djaniero - django snippets
 - Prettier
 - Markdown preview enhanced??
-
-## Default VScode markdown features  
-
-- Outline View  
-- CTRL+SPACE :  Auto suggest, Directory/Path completion  
-- CTRL+SHIFT+O : JUMP TO Header  
-- CTRL+T : Search through all headers for all md files in current workspace  
-- CTRL+Space: Path completion  
-- Drag & Drop to insert links/images  
-- Shift+Alt+Right:Expand hierarchically
-- Shift+Alt+Left: Shrink hierarchically
-- CTRL+K V: to preview on righ pane  
-  - CTRL+SHIFT+V to switch between views in current window  
   
 ## Setting
 
@@ -60,6 +47,8 @@
 - .markdownlint.json
 - .env config
 
+## Tips & Tricks
+[Click here](.vscode/learnvscode.md)
 ## Meta
 
 The ones with star need to be learnt more
