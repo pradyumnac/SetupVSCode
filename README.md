@@ -36,12 +36,12 @@
 
 - Outline View  
 - CTRL+SPACE :  Auto suggest, Directory/Path completion  
-- ctrl+shift+O : JUMP TO Header  
+- CTRL+SHIFT+O : JUMP TO Header  
 - CTRL+T : Search through all headers for all md files in current workspace  
-- CTRL+SPace: Path completion  
+- CTRL+Space: Path completion  
 - Drag & Drop to insert links/images  
-- Expand hierarchically : Shift+Alt+Right  
-- Shrink hierarchically: Shift+Alt+Left  
+- Shift+Alt+Right:Expand hierarchically
+- Shift+Alt+Left: Shrink hierarchically
 - CTRL+K V: to preview on righ pane  
   - CTRL+SHIFT+V to switch between views in current window  
   
