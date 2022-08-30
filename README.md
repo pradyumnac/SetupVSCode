@@ -26,7 +26,7 @@
   - Switch between string templates
   - ctrll+shift+2 to trigger
   - only triggers if cursor on the line below the definition
-  - implement func first and then generate doius. 
+  - implement func first and then generate docstring
     - Helps in autopopulation of return values
 - Djaniero - django snippets
 - Prettier
