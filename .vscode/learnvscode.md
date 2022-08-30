@@ -11,3 +11,9 @@
 - **Shift+Alt+Left**: Shrink Selection hierarchically:
 - **CTRL+K V**: to preview on right pane
   - **CTRL+SHIFT+V** to switch between views in current window  
+
+## Adding extension config file to work space
+
+1. When workspace is open, go to extensions pane 
+2. click on settings icon
+3. click add to recommended
