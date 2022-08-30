@@ -14,6 +14,7 @@
 
 ## Adding extension config file to work space
 
-1. When workspace is open, go to extensions pane 
+1. When workspace is open, go to extensions pane  
 2. click on settings icon
 3. click add to recommended
+4. this add extensions to .vscode folder  
