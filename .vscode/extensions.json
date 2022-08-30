@@ -13,6 +13,7 @@
         "esbenp.prettier-vscode",
         "ms-vscode-remote.vscode-remote-extensionpack",
         "gruntfuggly.todo-tree",
-        "burkeholland.simple-react-snippets"
+        "burkeholland.simple-react-snippets",
+        "dbaeumer.vscode-eslint"
     ]
 }
