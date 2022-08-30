@@ -45,7 +45,8 @@
 - .EditorConfig
 - .setting.json vscode settings
 - .markdownlint.json
-- .env config
+- .env config  
+  - added to git ignore automaticlly
 
 ## Tips & Tricks
 [Click here](.vscode/learnvscode.md)
