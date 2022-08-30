@@ -49,7 +49,7 @@
   - added to git ignore automaticlly
 
 ## Tips & Tricks
-[Click here](.vscode/learnvscode.md)
+[Click here](learnvscode.md)
 ## Meta
 
 The ones with star need to be learnt more
