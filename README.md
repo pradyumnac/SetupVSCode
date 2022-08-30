@@ -3,7 +3,7 @@
 ## Extensions
 
 - Theme: Andromeda
-- icon: VSCode-icons
+- Icon: VSCode-icons
 - Go
 - Python
 - IntelliCode
@@ -32,19 +32,18 @@
 - Prettier
 - Markdown preview enhanced??
 
----
 ## Default VScode markdown features  
 
-* Outline View  
-* CTRL+SPACE :  Auto suggest, Directory/Path completion  
-* ctrl+shift+O : JUMP TO Header  
-* CTRL+T : Search through all headers for all md files in current workspace  
-* CTRL+SPace: Path completion  
-* Drag & Drop to insert links/images  
-* Expand hierarchically : Shift+Alt+Right  
-* Shrink hierarchically: Shift+Alt+Left  
-* CTRL+K V: to preview on righ pane  
-  * CTRL+SHIFT+V to switch between views in current window  
+- Outline View  
+- CTRL+SPACE :  Auto suggest, Directory/Path completion  
+- ctrl+shift+O : JUMP TO Header  
+- CTRL+T : Search through all headers for all md files in current workspace  
+- CTRL+SPace: Path completion  
+- Drag & Drop to insert links/images  
+- Expand hierarchically : Shift+Alt+Right  
+- Shrink hierarchically: Shift+Alt+Left  
+- CTRL+K V: to preview on righ pane  
+  - CTRL+SHIFT+V to switch between views in current window  
   
 ## Setting
 
@@ -53,7 +52,6 @@
 "markdown.extension.list.indentationSize": "inherit" for proper indentation  
 (Remember that  markdown has no concept of)
 
----
 ## Config files  
 *Included in the repo*
 
